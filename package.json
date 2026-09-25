@@ -1,0 +1,13 @@
+{
+    "name": "academia-app",
+    "private": true,
+    "version": "1.0.0",
+    "workspaces": [
+        "apps/*",
+        "packages/*"
+    ],
+    "scripts": {},
+    "engines": {
+        "node": ">=18"
+    }
+}
